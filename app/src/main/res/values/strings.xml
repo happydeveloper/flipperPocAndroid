@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DebuggingPoCApplication</string>
+    <string name="welcome_info">Hello</string>
+</resources>
